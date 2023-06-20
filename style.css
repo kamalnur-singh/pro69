@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.travel_mainDIV{
+border: 1px solid lightgray; 
+}
+
+
+
+.travel_mainDIV img{
+
+    width: 100%;
+}
+
+
+
+.travel_mainDIV hS , .travel_mainDIV p{
+
+    margin: 20px;
+}
